@@ -1,4 +1,4 @@
-import Recht, { Fragment } from 'react';
+import React, { Fragment } from 'react';
 import Card from './Card';
 
 const CardList = ({ robots}) => {
@@ -20,3 +20,5 @@ return (
         </Fragment>
     );
 }
+
+export default CardList ;

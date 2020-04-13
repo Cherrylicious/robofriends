@@ -1,4 +1,4 @@
-import Rect, { Fragment } from 'react';
+import React, { Fragment } from 'react';
 
 const Card = ({name, email, id}) => {
     return(
